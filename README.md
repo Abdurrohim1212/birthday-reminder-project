@@ -6,6 +6,7 @@
 
 > This is really simple project called birthday project build with React js
 > This project basically project to remind of your friend by listing their name and images once you dont have it and you click "clear all " all the data will be gone"
+> <img src="/images/birthday-reminder.PNG">
 
 ## Install
 
